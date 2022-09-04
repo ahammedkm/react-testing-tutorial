@@ -1,4 +1,4 @@
-# React Testing Tutorial
+# React Unit Testing Tutorial
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
